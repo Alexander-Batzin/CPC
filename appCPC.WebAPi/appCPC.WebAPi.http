@@ -1,0 +1,6 @@
+@appCPC.WebAPi_HostAddress = http://localhost:5249
+
+GET {{appCPC.WebAPi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,24 @@
+C:\Users\Pablo G\Desktop\Septimo Semestre\Analisis de Sistema I\Prueba\appCPC.WebAPi\appCPC.DataAcces\bin\Debug\net8.0\appCPC.DataAcces.deps.json
+C:\Users\Pablo G\Desktop\Septimo Semestre\Analisis de Sistema I\Prueba\appCPC.WebAPi\appCPC.DataAcces\bin\Debug\net8.0\appCPC.DataAcces.dll
+C:\Users\Pablo G\Desktop\Septimo Semestre\Analisis de Sistema I\Prueba\appCPC.WebAPi\appCPC.DataAcces\bin\Debug\net8.0\appCPC.DataAcces.pdb
+C:\Users\Pablo G\Desktop\Septimo Semestre\Analisis de Sistema I\Prueba\appCPC.WebAPi\appCPC.DataAcces\obj\Debug\net8.0\appCPC.DataAcces.csproj.AssemblyReference.cache
+C:\Users\Pablo G\Desktop\Septimo Semestre\Analisis de Sistema I\Prueba\appCPC.WebAPi\appCPC.DataAcces\obj\Debug\net8.0\appCPC.DataAcces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo G\Desktop\Septimo Semestre\Analisis de Sistema I\Prueba\appCPC.WebAPi\appCPC.DataAcces\obj\Debug\net8.0\appCPC.DataAcces.AssemblyInfoInputs.cache
+C:\Users\Pablo G\Desktop\Septimo Semestre\Analisis de Sistema I\Prueba\appCPC.WebAPi\appCPC.DataAcces\obj\Debug\net8.0\appCPC.DataAcces.AssemblyInfo.cs
+C:\Users\Pablo G\Desktop\Septimo Semestre\Analisis de Sistema I\Prueba\appCPC.WebAPi\appCPC.DataAcces\obj\Debug\net8.0\appCPC.DataAcces.csproj.CoreCompileInputs.cache
+C:\Users\Pablo G\Desktop\Septimo Semestre\Analisis de Sistema I\Prueba\appCPC.WebAPi\appCPC.DataAcces\obj\Debug\net8.0\appCPC.DataAcces.dll
+C:\Users\Pablo G\Desktop\Septimo Semestre\Analisis de Sistema I\Prueba\appCPC.WebAPi\appCPC.DataAcces\obj\Debug\net8.0\refint\appCPC.DataAcces.dll
+C:\Users\Pablo G\Desktop\Septimo Semestre\Analisis de Sistema I\Prueba\appCPC.WebAPi\appCPC.DataAcces\obj\Debug\net8.0\appCPC.DataAcces.pdb
+C:\Users\Pablo G\Desktop\Septimo Semestre\Analisis de Sistema I\Prueba\appCPC.WebAPi\appCPC.DataAcces\obj\Debug\net8.0\ref\appCPC.DataAcces.dll
+C:\Users\Pablo G\Desktop\Septimo Semestre\Analisis de Sistema I\Proyecto Final\appCPC.WebAPi\appCPC.DataAcces\bin\Debug\net8.0\appCPC.DataAcces.deps.json
+C:\Users\Pablo G\Desktop\Septimo Semestre\Analisis de Sistema I\Proyecto Final\appCPC.WebAPi\appCPC.DataAcces\bin\Debug\net8.0\appCPC.DataAcces.dll
+C:\Users\Pablo G\Desktop\Septimo Semestre\Analisis de Sistema I\Proyecto Final\appCPC.WebAPi\appCPC.DataAcces\bin\Debug\net8.0\appCPC.DataAcces.pdb
+C:\Users\Pablo G\Desktop\Septimo Semestre\Analisis de Sistema I\Proyecto Final\appCPC.WebAPi\appCPC.DataAcces\obj\Debug\net8.0\appCPC.DataAcces.csproj.AssemblyReference.cache
+C:\Users\Pablo G\Desktop\Septimo Semestre\Analisis de Sistema I\Proyecto Final\appCPC.WebAPi\appCPC.DataAcces\obj\Debug\net8.0\appCPC.DataAcces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo G\Desktop\Septimo Semestre\Analisis de Sistema I\Proyecto Final\appCPC.WebAPi\appCPC.DataAcces\obj\Debug\net8.0\appCPC.DataAcces.AssemblyInfoInputs.cache
+C:\Users\Pablo G\Desktop\Septimo Semestre\Analisis de Sistema I\Proyecto Final\appCPC.WebAPi\appCPC.DataAcces\obj\Debug\net8.0\appCPC.DataAcces.AssemblyInfo.cs
+C:\Users\Pablo G\Desktop\Septimo Semestre\Analisis de Sistema I\Proyecto Final\appCPC.WebAPi\appCPC.DataAcces\obj\Debug\net8.0\appCPC.DataAcces.csproj.CoreCompileInputs.cache
+C:\Users\Pablo G\Desktop\Septimo Semestre\Analisis de Sistema I\Proyecto Final\appCPC.WebAPi\appCPC.DataAcces\obj\Debug\net8.0\appCPC.DataAcces.dll
+C:\Users\Pablo G\Desktop\Septimo Semestre\Analisis de Sistema I\Proyecto Final\appCPC.WebAPi\appCPC.DataAcces\obj\Debug\net8.0\refint\appCPC.DataAcces.dll
+C:\Users\Pablo G\Desktop\Septimo Semestre\Analisis de Sistema I\Proyecto Final\appCPC.WebAPi\appCPC.DataAcces\obj\Debug\net8.0\appCPC.DataAcces.pdb
+C:\Users\Pablo G\Desktop\Septimo Semestre\Analisis de Sistema I\Proyecto Final\appCPC.WebAPi\appCPC.DataAcces\obj\Debug\net8.0\ref\appCPC.DataAcces.dll

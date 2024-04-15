@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "c97zwxSmktSfPivg1TbhCeZ2SMyF2XTdNjA8VoVHWBY=",
+  "Source": "appCPC.WebAPi",
+  "BasePath": "_content/appCPC.WebAPi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
